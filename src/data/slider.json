@@ -1,0 +1,26 @@
+ [
+      {
+        "title": "Nature Walk",
+        "subtitle": "Breathe in the serenity of nature",
+        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "interval": 5000
+      },
+      {
+        "title": "Cityscape",
+        "subtitle": "Get mesmerized by the city lights",
+        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "interval": 6000
+      },
+      {
+        "title": "Culinary Delights",
+        "subtitle": "Best places for a sweet break",
+        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "interval": 5500
+      },
+      {
+        "title": "Art Exhibition",
+        "subtitle": "Discover art through visual spectacle",
+        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "interval": 7000
+      }
+    ]
