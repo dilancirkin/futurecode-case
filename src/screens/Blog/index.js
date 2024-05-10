@@ -1,11 +1,8 @@
-import { View, Text } from 'react-native'
 import React from 'react'
 
-const Blog = () => {
+function Blog() {
   return (
-    <View>
-      <Text>Blog</Text>
-    </View>
+    <div>Blog</div>
   )
 }
 

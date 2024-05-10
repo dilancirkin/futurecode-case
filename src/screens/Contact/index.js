@@ -1,11 +1,8 @@
-import { View, Text } from 'react-native'
 import React from 'react'
 
-const Contact = () => {
+function Contact() {
   return (
-    <View>
-      <Text>Contact</Text>
-    </View>
+    <div>Contact</div>
   )
 }
 
