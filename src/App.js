@@ -6,6 +6,7 @@ import Home from "./screens/Home";
 import Blog from "./screens/Blog";
 import BlogDetail from "./screens/BlogDetail";
 import Contact from "./screens/Contact";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

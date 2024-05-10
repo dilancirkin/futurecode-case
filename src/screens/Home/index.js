@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import Slider from "../../components/Slider";
+import About from "../../components/About";
+
+import slides from "../../data/slider.json";
 
 function Home() {
-  return (
-    <div>Home</div>
-  )
+  return <div>
+    <Slider slides={slides} />
+    </div>
 }
 
-export default Home
+export default Home;
