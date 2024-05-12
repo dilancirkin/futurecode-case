@@ -7,6 +7,7 @@ import slides from "../../data/slider.json";
 function Home() {
   return <div>
     <Slider slides={slides} />
+    <About/>
     </div>
 }
 
