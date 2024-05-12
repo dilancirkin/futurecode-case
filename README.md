@@ -32,6 +32,3 @@ Run the app
 [FontAwesome](https://fontawesome.com/)
 
 
-## Screenshots
-
-
