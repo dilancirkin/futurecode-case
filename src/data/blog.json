@@ -1,91 +1,480 @@
 [
-    {
-      "id": 6,
-      "title": "The Power of Positive Thinking",
-      "summary": "Exploring the impact of positive thinking on mental health and strategies for cultivating a positive mindset.",
-      "author": "John Smith",
-      "content": "Positive thinking has the ability to transform our mental and emotional well-being. By cultivating a positive mindset, individuals can improve their resilience, reduce stress, and enhance overall quality of life. In this article, we delve into the science behind positive thinking and provide practical strategies for incorporating positivity into daily life.",
-      "image": "https://via.placeholder.com/600x400?text=Positive+Thinking",
-      "publish_date": "2024-03-15"
-    },
-    {
-      "id": 7,
-      "title": "The Art of Mindful Eating",
-      "summary": "Exploring the practice of mindful eating and its benefits for physical and mental health.",
-      "author": "Emily Brown",
-      "content": "Mindful eating involves paying full attention to the experience of eating and drinking, both inside and outside the body. This practice has been shown to promote healthier eating habits, reduce overeating, and enhance enjoyment of food. In this article, we explore the principles of mindful eating and offer practical tips for incorporating mindfulness into meals.",
-      "image": "https://via.placeholder.com/600x400?text=Mindful+Eating",
-      "publish_date": "2024-03-01"
-    },
-    {
-      "id": 8,
-      "title": "The Science of Happiness",
-      "summary": "A comprehensive overview of the science of happiness and evidence-based strategies for leading a happier life.",
-      "author": "Sarah Johnson",
-      "content": "Happiness is a multifaceted construct influenced by various factors such as genetics, environment, and behavior. However, research in positive psychology has identified specific practices that can boost happiness levels and improve overall well-being. In this article, we explore the science behind happiness and provide actionable tips for cultivating happiness in daily life.",
-      "image": "https://via.placeholder.com/600x400?text=Science+of+Happiness",
-      "publish_date": "2024-02-15"
-    },
-    {
-      "id": 9,
-      "title": "The Healing Power of Music",
-      "summary": "Examining the therapeutic effects of music on mental and emotional health.",
-      "author": "Michael Davis",
-      "content": "Music has been used for centuries as a form of therapy to alleviate stress, reduce anxiety, and enhance emotional expression. Recent scientific studies have further validated the therapeutic benefits of music, demonstrating its ability to positively impact mood and mental well-being. In this article, we explore the healing properties of music and discuss how individuals can harness its power for improved mental health.",
-      "image": "https://via.placeholder.com/600x400?text=Healing+Power+of+Music",
-      "publish_date": "2024-02-01"
-    },
-    {
-      "id": 10,
-      "title": "The Importance of Self-Care",
-      "summary": "Highlighting the significance of self-care practices for maintaining mental and emotional well-being.",
-      "author": "Jessica Williams",
-      "content": "Self-care encompasses a range of activities and practices designed to promote physical, mental, and emotional health. Engaging in regular self-care routines can help individuals manage stress, build resilience, and improve overall quality of life. In this article, we explore the importance of self-care and provide practical strategies for incorporating self-care into daily routines.",
-      "image": "https://via.placeholder.com/600x400?text=Importance+of+Self-Care",
-      "publish_date": "2024-01-15"
-    },
-    {
-      "id": 11,
-      "title": "Finding Balance: The Key to Well-Being",
-      "summary": "Discussing the importance of balance in various aspects of life for optimal well-being.",
-      "author": "David Wilson",
-      "content": "Achieving balance in life involves harmonizing different areas such as work, relationships, health, and personal interests. When these aspects are in equilibrium, individuals experience greater satisfaction, fulfillment, and overall well-being. In this article, we delve into the concept of balance and offer practical tips for finding equilibrium in daily life.",
-      "image": "https://via.placeholder.com/600x400?text=Finding+Balance",
-      "publish_date": "2023-12-30"
-    },
-    {
-      "id": 12,
-      "title": "The Connection Between Gratitude and Happiness",
-      "summary": "Exploring how practicing gratitude can lead to increased happiness and life satisfaction.",
-      "author": "Emma Roberts",
-      "content": "Gratitude is a powerful emotion that has been linked to numerous psychological and physical benefits, including greater happiness, improved relationships, and better health. By cultivating a habit of gratitude, individuals can shift their focus from what they lack to what they have, leading to a more positive outlook on life. In this article, we examine the science of gratitude and provide practical strategies for cultivating gratitude in daily life.",
-      "image": "https://via.placeholder.com/600x400?text=Gratitude+and+Happiness",
-      "publish_date": "2023-12-15"
-    },
-    {
-      "id": 13,
-      "title": "The Impact of Sleep on Mental Health",
-      "summary": "Investigating the relationship between sleep quality and mental well-being.",
-      "author": "Daniel Thompson",
-      "content": "Quality sleep is essential for maintaining optimal mental health and cognitive function. Poor sleep habits and sleep disorders can contribute to a range of mental health issues, including depression, anxiety, and mood disturbances. In this article, we explore the importance of sleep for mental well-being and provide tips for improving sleep quality and establishing healthy sleep habits.",
-      "image": "https://via.placeholder.com/600x400?text=Impact+of+Sleep",
-      "publish_date": "2023-12-01"
-    },
-    {
-      "id": 14,
-      "title": "The Role of Social Support in Mental Health",
-      "summary": "Examining how social connections and support systems influence mental well-being.",
-      "author": "Olivia Taylor",
-      "content": "Strong social connections and support systems play a vital role in promoting mental health and resilience. Having a network of supportive relationships can buffer against stress, reduce feelings of loneliness, and enhance overall well-being. In this article, we discuss the importance of social support for mental health and provide strategies for nurturing meaningful connections and building a supportive network.",
-      "image": "https://via.placeholder.com/600x400?text=Social+Support+in+Mental+Health",
-      "publish_date": "2023-11-15"
-    },
-    {
-      "id": 15,
-      "title": "The Benefits of Nature Therapy",
-      "summary": "Exploring the therapeutic effects of spending time",
-      "content": "Strong social connections and support systems play a vital role in promoting mental health and resilience. Having a network of supportive relationships can buffer against stress, reduce feelings of loneliness, and enhance overall well-being. In this article, we discuss the importance of social support for mental health and provide strategies for nurturing meaningful connections and building a supportive network.",
-      "image": "https://via.placeholder.com/600x400?text=Social+Support+in+Mental+Health",
-      "publish_date": "2023-11-15"
-    }
-]
+  {
+  "id": "004780a2-5294-4672-a284-424bebfd8748",
+  "user_id": "aec92dd8-79dd-4b22-9deb-a2af00d568c8",
+  "title": "Consequatur et quisquam minus delectus tenetur.",
+  "subtitle": "Minus eum dolor enim. Dignissimos sit aperiam rerum laborum ut voluptatem.",
+  "summary": "Molestiae ut est dolorem a vero et in. Dignissimos id et dolore consequuntur explicabo doloremque soluta. Deserunt repudiandae soluta nulla neque aut recusandae sed non. Itaque velit neque dicta dolores fuga dicta sunt.",
+  "category": "Entertainment",
+  "featured_image": "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxMHx8UGxhbnRzfGVufDB8MHx8fDE2OTczNTc1NjV8MA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "aec92dd8-79dd-4b22-9deb-a2af00d568c8",
+  "first_name": "Heath",
+  "middle_name": "Padberg",
+  "last_name": "Hills",
+  "email": "ernesto.muller_prosacco.kayli@example.net",
+  "contact_id": "227b5217-f3e4-4086-bef6-75f4acaea47a",
+  "address_id": "2278241b-bb32-4574-8fb6-b1c24f812c6c",
+  "username": "alycia662571",
+  "role": "Adjustment Clerk",
+  "profile_pic": "https://images.unsplash.com/photo-1568822617270-2c1579f8dfe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOXx8RnJpZW5kc3xlbnwwfDJ8fHwxNjk3MzYzOTE1fDA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "00535eb0-76c3-4f12-b1d2-93473cd5fe94",
+  "user_id": "61aa2cd5-978b-45f6-b592-9964ac04c855",
+  "title": "Nesciunt eligendi qui delectus quia blanditiis.",
+  "subtitle": "Et iste omnis est explicabo eos. Sunt blanditiis quam ad libero est asperiores et.",
+  "summary": "Quia error sit tenetur repellat repudiandae. Fugit sapiente aut itaque et aut molestiae. Id quod fuga occaecati sunt error voluptatem.",
+  "category": "Food & Drink",
+  "featured_image": "https://images.unsplash.com/photo-1604213410393-89f141bb96b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw0fHxKdW5nbGV8ZW58MHwwfHx8MTY5NzM1NzU0MHww&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "61aa2cd5-978b-45f6-b592-9964ac04c855",
+  "first_name": "Andre",
+  "middle_name": "Jenkins",
+  "last_name": "Flatley",
+  "email": "isaiah.douglas_estefania88@example.net",
+  "contact_id": "ad532dd9-25a2-44dc-94f5-f56a9ab39296",
+  "address_id": "aaedd93e-400e-42b1-81a8-8e8d88615cb8",
+  "username": "lesch.blaise5895",
+  "role": "Software Engineer",
+  "profile_pic": "https://images.unsplash.com/photo-1543363575-d306a0b37c9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyOHx8Rm9vZHxlbnwwfDJ8fHwxNjk3MzYzOTM0fDA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "006ad48b-e9d9-472e-bcc0-39961ef18eba",
+  "user_id": "8dfb2fe0-980a-4132-a5a3-c35cb4673be6",
+  "title": "Quae praesentium consequatur vel eligendi iste nisi.",
+  "subtitle": "Consectetur inventore distinctio aperiam suscipit dolorum. Maxime neque praesentium quasi et qui.",
+  "summary": "Vel ipsum aut qui quo consectetur vel. Illo neque maiores dicta sunt ipsam. A consequatur assumenda expedita assumenda. Minus assumenda consectetur reiciendis.",
+  "category": "Fashion & Beauty",
+  "featured_image": "https://images.unsplash.com/photo-1542349314-b0ceb4d90f2d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyMXx8Q2xvdWRzfGVufDB8MHx8fDE2OTczNTc1NjZ8MA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "8dfb2fe0-980a-4132-a5a3-c35cb4673be6",
+  "first_name": "Rylee",
+  "middle_name": "McClure",
+  "last_name": "O'Kon",
+  "email": "katlyn.corkery_heaney.emerson@example.net",
+  "contact_id": "29f5c0f4-9b4b-4ae6-8b28-ca82fe648645",
+  "address_id": "2a5b2185-2021-4c00-a903-6226363fb0bc",
+  "username": "zbradtke7096",
+  "role": "Mixing and Blending Machine Operator",
+  "profile_pic": "https://images.unsplash.com/photo-1617791169544-1ba998b069e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxM3x8QmFieXxlbnwwfDJ8fHwxNjk3MzYzOTE3fDA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [
+  {
+  "id": "1f8dd033-75fb-4a12-a06f-cecc053d785a",
+  "user_id": "b6a9005c-d26b-49d3-8be0-2845b8f25534",
+  "blog_post_id": "006ad48b-e9d9-472e-bcc0-39961ef18eba",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ],
+  "tags": []
+  },
+  {
+  "id": "00caf75b-0d8f-441c-ae04-1dd25a790683",
+  "user_id": "f0aeec22-03c8-4648-92dc-bbea8e4366d6",
+  "title": "Sunt et rerum aspernatur praesentium.",
+  "subtitle": "Eos laboriosam est itaque enim ratione. Quasi inventore quisquam sed harum sit non.",
+  "summary": "Modi temporibus voluptatem aut necessitatibus deleniti. Eum dolorem sit veritatis labore laborum. Maxime temporibus commodi repellendus laborum laborum fugiat. Tempora voluptate expedita quisquam asperiores neque.",
+  "category": "Art & Culture",
+  "featured_image": "https://images.unsplash.com/photo-1495580847032-db0bac41d44b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNHx8Q2FueW9ufGVufDB8MHx8fDE2OTczNTc1NDR8MA&ixlib=rb-4.0.3&q=85",
+  
+  "created_at": "Sun, 10/15/2023",
+
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "f0aeec22-03c8-4648-92dc-bbea8e4366d6",
+  "first_name": "Al",
+  "middle_name": "Kilback",
+  "last_name": "Carter",
+  "email": "johns.jerry_cbogan@example.net",
+  "contact_id": "e1e9eb41-ebc9-4c27-8e24-b0bf6eff9d72",
+  "address_id": "de7f2f3a-8488-49f9-94e7-0b5e04ae1b1a",
+  "username": "mattie.batz4359",
+  "role": "Artist",
+  "profile_pic": "https://images.unsplash.com/photo-1647541736304-e5d7ce6f3f54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw3fHxGZXN0aXZhbHxlbnwwfDJ8fHwxNjk3MzYzOTQyfDA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": [
+  {
+  "id": "597a1751-71fa-448b-8500-c4428216b989",
+  "blog_post_id": "00caf75b-0d8f-441c-ae04-1dd25a790683",
+  "name": "Food",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ]
+  },
+  {
+  "id": "00faf88c-9227-4783-b9b7-91e400dafd38",
+  "user_id": "3b070207-49cd-422d-81da-28ae3474fdda",
+  "title": "Quo minima quia veritatis sed aut sed fugiat.",
+  "subtitle": "Rerum sed minima culpa ab minima rem nobis provident. Assumenda aspernatur perferendis dolorum officia.",
+  "summary": "Dolorem necessitatibus et ipsum saepe. Possimus et natus voluptate et consequatur dolore non alias. Harum impedit amet non eum earum. Saepe et in ut animi eaque.",
+  "category": "Finance & Business",
+  "featured_image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw0fHxCZWFjaHxlbnwwfDB8fHwxNjk3MzU3NTYwfDA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "3b070207-49cd-422d-81da-28ae3474fdda",
+  "first_name": "Florine",
+  "middle_name": "Price",
+  "last_name": "Cummerata",
+  "email": "daren.parker_marge.marks@example.net",
+  "contact_id": "2f8367a4-9555-4c18-8f17-cbdf787698d6",
+  "address_id": "2f4cd9d9-364d-4a9e-9112-acd3bf763d8e",
+  "username": "domingo749552",
+  "role": "Pile-Driver Operator",
+  "profile_pic": "https://images.unsplash.com/photo-1576089172869-4f5f6f315620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw4fHxUZWVuYWdlcnxlbnwwfDJ8fHwxNjk3MzYzOTE3fDA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "011e4ba5-3a47-4d7d-84de-7110183386ce",
+  "user_id": "a64ccffa-730c-4fb0-bdea-6e008989df25",
+  "title": "Odit deserunt temporibus impedit dolore.",
+  "subtitle": "Alias voluptatem inventore molestiae pariatur amet et. Repellat saepe suscipit expedita dolor rem porro at culpa.",
+  "summary": "Est corporis praesentium natus possimus. Est dolorem voluptatibus officia. Enim tenetur culpa doloribus voluptatem est. Nulla vitae voluptate atque non delectus in repellat.",
+  "category": "Politics & Social Issues",
+  "featured_image": "https://images.unsplash.com/photo-1597346406489-b53dcccf4a07?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyMHx8RXN0dWFyeXxlbnwwfDB8fHwxNjk3MzU3NTYxfDA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "a64ccffa-730c-4fb0-bdea-6e008989df25",
+  "first_name": "Beverly",
+  "middle_name": "Vandervort",
+  "last_name": "Hammes",
+  "email": "cameron28_smedhurst@example.com",
+  "contact_id": "0e67eebb-4d98-49b7-9311-d3fe525df5ba",
+  "address_id": "0d9315ae-305b-42f8-8849-1758615e54b1",
+  "username": "lheller9347",
+  "role": "Fire Inspector",
+  "profile_pic": "https://images.unsplash.com/photo-1587112622607-7b1a1665d012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOXx8RmFtaWx5fGVufDB8Mnx8fDE2OTczNjM5MTJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "011f56e0-01b3-41dd-a56d-93093032a699",
+  "user_id": "ff6146b0-cf69-41a5-ba8a-cc5bc35a3d82",
+  "title": "Qui excepturi autem repellendus.",
+  "subtitle": "Distinctio et maiores occaecati iure molestiae molestiae ut. Neque suscipit quasi nisi qui quo eius et.",
+  "summary": "Pariatur ex eaque dolor asperiores. Reprehenderit consectetur consequatur sequi asperiores laudantium et. Sint maiores est consequuntur debitis nisi.",
+  "category": "Technology",
+  "featured_image": "https://images.unsplash.com/photo-1547754980-3df97fed72a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxNHx8U25vd3xlbnwwfDB8fHwxNjk3MzU3NTY4fDA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "ff6146b0-cf69-41a5-ba8a-cc5bc35a3d82",
+  "first_name": "Laura",
+  "middle_name": "Wolff",
+  "last_name": "Langworth",
+  "email": "therese.howell_jaydon.thiel@example.net",
+  "contact_id": "9c3cd03d-3905-48ca-9b99-93c5a85cd7cd",
+  "address_id": "9b5cd934-0114-406c-b2da-0defbc553e3f",
+  "username": "milford230592",
+  "role": "Telephone Operator",
+  "profile_pic": "https://images.unsplash.com/photo-1530138897365-a9615c610099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwzMHx8U3BvcnR8ZW58MHwyfHx8MTY5NzM2MzkzMnww&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "014b7082-466a-4a9e-bac9-f6e0b1623323",
+  "user_id": "102d32b3-84c7-496a-a4d3-7a90140c99cd",
+  "title": "Beatae esse et corporis voluptas tempora.",
+  "subtitle": "Atque illo enim eos nulla quasi ducimus expedita. Numquam labore et explicabo qui et.",
+  "summary": "Culpa vitae fugit facilis sed error eius pariatur cum. Vel dolorem qui consequuntur asperiores. Libero maxime dolores eligendi molestiae. Voluptatem modi ullam neque enim placeat reiciendis aut.",
+  "category": "Technology",
+  "featured_image": "https://images.unsplash.com/photo-1583818253917-00853f2201bf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyOHx8UmVlZnxlbnwwfDB8fHwxNjk3MzU3NTQyfDA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "102d32b3-84c7-496a-a4d3-7a90140c99cd",
+  "first_name": "Eldred",
+  "middle_name": "Hoeger",
+  "last_name": "Sporer",
+  "email": "larkin.keven_mcdermott.william@example.org",
+  "contact_id": "42857591-c092-4518-9264-f8c135daf40b",
+  "address_id": "403b4536-e47c-48cd-9c3b-4ce038adaabf",
+  "username": "judd767569",
+  "role": "Legal Support Worker",
+  "profile_pic": "https://images.unsplash.com/photo-1692478330654-92d3cf09c213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyOXx8SGFwcGluZXNzfGVufDB8Mnx8fDE2OTczNjM5MjB8MA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": [
+  {
+  "id": "34a772a7-99b9-4440-b89f-b47ec8f63321",
+  "blog_post_id": "014b7082-466a-4a9e-bac9-f6e0b1623323",
+  "name": "Parenting",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ]
+  },
+  {
+  "id": "019352fa-38db-48c2-87bc-c94b0e6ba989",
+  "user_id": "b47842f1-ea45-4321-8ab8-e0b1f554bd34",
+  "title": "Quod optio quia nam est quod alias.",
+  "subtitle": "In ut ut perferendis et. Sit qui libero ut aut.",
+  "summary": "Pariatur quia saepe ut. Voluptatum praesentium hic aliquam aliquam nobis rem ad quia. Dignissimos autem officiis necessitatibus soluta maiores quia. Illo qui soluta ut quas eaque vero quo.",
+  "category": "Lifestyle",
+  "featured_image": "https://images.unsplash.com/photo-1558871585-4c3574a1b7cd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxfHxGaWVsZHN8ZW58MHwwfHx8MTY5NzM1NzU2OXww&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "b47842f1-ea45-4321-8ab8-e0b1f554bd34",
+  "first_name": "Mekhi",
+  "middle_name": "Ernser",
+  "last_name": "Hagenes",
+  "email": "lera.mills_raheem.denesik@example.com",
+  "contact_id": "02a65b17-8e99-46b7-a4ed-f2029dd9bc73",
+  "address_id": "02e8f268-6fc6-4923-ae5e-454dc5d709b3",
+  "username": "amya011542",
+  "role": "Welder-Fitter",
+  "profile_pic": "https://images.unsplash.com/photo-1504376379689-8d54347b26c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOXx8UG9ydHJhaXR8ZW58MHwyfHx8MTY5NzM2MzkxMXww&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "01a86dd7-41dc-404a-b345-403f8818a7a1",
+  "user_id": "451629c1-9ec7-4179-b2b4-d7825d8af2fb",
+  "title": "Eaque eum explicabo suscipit.",
+  "subtitle": "Veniam qui aut eum enim. Temporibus assumenda at aut ab nihil.",
+  "summary": "Quo atque nesciunt ipsum eos ab qui. Est porro voluptas eaque cumque.",
+  "category": "Food & Drink",
+  "featured_image": "https://images.unsplash.com/photo-1509825826883-62284c8c7ea5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyMHx8V2F0ZXJmYWxsfGVufDB8MHx8fDE2OTczNTc1Mzd8MA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "451629c1-9ec7-4179-b2b4-d7825d8af2fb",
+  "first_name": "Bernadine",
+  "middle_name": "Hermann",
+  "last_name": "Jenkins",
+  "email": "pansy23_miles.treutel@example.net",
+  "contact_id": "4f131273-4b16-4b46-8064-20339801e4dd",
+  "address_id": "4a01dd80-4887-4df1-98f0-637ce67caa65",
+  "username": "jordi740592",
+  "role": "Ship Captain",
+  "profile_pic": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxfHxMb3ZlfGVufDB8Mnx8fDE2OTczNjM5MjJ8MA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "01b925a3-de0c-439e-aa11-11cce3e35d6e",
+  "user_id": "5d27aa04-540d-4e95-8fb2-ebc871b90c66",
+  "title": "Est sit ipsa quo aliquam assumenda.",
+  "subtitle": "Nihil quis nesciunt voluptatum dignissimos. Nobis laudantium cum et.",
+  "summary": "At dolor in ex autem. Minima eius in est dolorem ut voluptas. Iusto quidem quia qui facere qui nostrum sed.",
+  "category": "Technology",
+  "featured_image": "https://images.unsplash.com/photo-1620888383510-df74717e99f3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOXx8RXN0dWFyeXxlbnwwfDB8fHwxNjk3MzU3NTYxfDA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "5d27aa04-540d-4e95-8fb2-ebc871b90c66",
+  "first_name": "Lue",
+  "middle_name": "Bashirian",
+  "last_name": "Quigley",
+  "email": "stoltenberg.vita_rullrich@example.com",
+  "contact_id": "b3ab9b0f-3cd0-4142-92cb-17f824e2645b",
+  "address_id": "b2e351b5-bbe7-4720-82fb-48d2c590d6bd",
+  "username": "autumn.homenick8153",
+  "role": "Religious Worker",
+  "profile_pic": "https://images.unsplash.com/photo-1601923876380-7e5b12e09eeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOHx8Rml0bmVzc3xlbnwwfDJ8fHwxNjk3MzYzOTM2fDA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": [
+  {
+  "id": "551d71bd-aeaf-46ee-9649-8f86246d94ac",
+  "blog_post_id": "01b925a3-de0c-439e-aa11-11cce3e35d6e",
+  "name": "Science",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ]
+  },
+  {
+  "id": "01bf7669-3cf9-4930-9712-8123869bcc16",
+  "user_id": "e14ac4ae-f39a-4a54-a483-6abad7b3092c",
+  "title": "Qui et voluptas ut at non et aut ad.",
+  "subtitle": "Repellat voluptas dolores neque debitis nisi consectetur. Quisquam itaque numquam nobis totam sunt vitae.",
+  "summary": "Voluptas aperiam dolorem sunt ipsum suscipit. Tenetur autem est autem iste. Fuga et fugiat id sed ullam eos adipisci. Magni dolores tenetur sequi perferendis voluptates quis reiciendis. Id alias omnis id doloremque dolor nihil.",
+  "category": "Food & Drink",
+  "featured_image": "https://images.unsplash.com/photo-1442386967425-6205da77c3ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxMXx8UmVlZnxlbnwwfDB8fHwxNjk3MzU3NTQyfDA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "e14ac4ae-f39a-4a54-a483-6abad7b3092c",
+  "first_name": "Toni",
+  "middle_name": "Beer",
+  "last_name": "Bradtke",
+  "email": "ibashirian_america.cole@example.net",
+  "contact_id": "28175c3a-c63c-4d7e-ad20-f108d088221d",
+  "address_id": "28513693-8185-4a5b-b832-3d3bc7700e21",
+  "username": "fay.kaylin2228",
+  "role": "Computer Support Specialist",
+  "profile_pic": "https://images.unsplash.com/photo-1596252732610-fce5ac542f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyfHxCYWJ5fGVufDB8Mnx8fDE2OTczNjM5MTd8MA&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "021f68da-d86e-46b0-881c-3994e6e9bf3e",
+  "user_id": "0db31d85-8275-48f1-a0d6-2dff5dc94570",
+  "title": "Et sed quo quas eligendi quis eos sequi.",
+  "subtitle": "Rerum autem voluptatem veniam. Delectus et quam et ipsam rerum.",
+  "summary": "Nesciunt voluptate iste eum id libero optio. Sequi quia eum et et magni ut. Nihil voluptatum ullam sit rem.",
+  "category": "Education",
+  "featured_image": "https://images.unsplash.com/photo-1488866022504-f2584929ca5f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxOXx8U2t5fGVufDB8MHx8fDE2OTczNTc1NjN8MA&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "0db31d85-8275-48f1-a0d6-2dff5dc94570",
+  "first_name": "Ara",
+  "middle_name": "Rohan",
+  "last_name": "Hackett",
+  "email": "delpha53_erutherford@example.net",
+  "contact_id": "0a1966d7-7611-4ba0-99a9-512e0ca2a41e",
+  "address_id": "09ebf14a-f596-44b2-92b2-875f0b87e499",
+  "username": "coralie.gibson5388",
+  "role": "Home Entertainment Equipment Installer",
+  "profile_pic": "https://images.unsplash.com/photo-1523951778169-4cb35545bfa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxfHxGYW1pbHl8ZW58MHwyfHx8MTY5NzM2MzkxMnww&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [
+  {
+  "id": "31f9a0f1-23bc-44ed-bf07-70fe2b759373",
+  "user_id": "45658508-dbac-44a2-8d53-75bf70aefd38",
+  "blog_post_id": "021f68da-d86e-46b0-881c-3994e6e9bf3e",
+  "main_content": "Vitae recusandae qui eum rerum dolore adipisci sed qui. Doloremque nobis tenetur deserunt. Temporibus itaque dolores ipsam commodi nam.",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ],
+  "tags": [
+  {
+  "id": "385c76b5-f895-4508-8c81-250584532852",
+  "blog_post_id": "021f68da-d86e-46b0-881c-3994e6e9bf3e",
+  "name": "Hobbies",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ]
+  },
+  {
+  "id": "0248231b-c3ad-4302-b7dd-8e34b176b1f7",
+  "user_id": "1cf5330f-77f4-4355-bd0d-560b3af6e9bd",
+  "title": "Cum id perspiciatis non mollitia dignissimos.",
+  "subtitle": "Est molestias alias doloribus est cupiditate illo. Totam ipsa consequatur soluta.",
+  "summary": "Suscipit unde aut dolores excepturi voluptatum earum. Recusandae et laudantium aliquid dolorum sint. Aliquam facere similique adipisci magni est accusamus eligendi. Cupiditate fuga non totam non rerum soluta.",
+  "category": "Art & Culture",
+  "featured_image": "https://images.unsplash.com/photo-1490365728022-deae76380607?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwzMHx8QmVhY2h8ZW58MHwwfHx8MTY5NzM1NzU2MHww&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "1cf5330f-77f4-4355-bd0d-560b3af6e9bd",
+  "first_name": "Fabian",
+  "middle_name": "Lockman",
+  "last_name": "Mann",
+  "email": "witting.bernadine_seamus.langosh@example.net",
+  "contact_id": "30d56f06-73c2-4a3d-9b70-8ddf410feee5",
+  "address_id": "302b152d-a619-4cc8-9716-78b1725540ae",
+  "username": "ikoepp8578",
+  "role": "Movie Director oR Theatre Director",
+  "profile_pic": "https://images.unsplash.com/photo-1626541650317-6ac1c2325995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxN3x8VGVlbmFnZXJ8ZW58MHwyfHx8MTY5NzM2MzkxN3ww&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": []
+  },
+  {
+  "id": "029a3edc-4ade-4038-bf26-f1a3b9a79163",
+  "user_id": "3f24cc93-ba5c-409c-b93e-287006fb0c51",
+  "title": "Quo repellat dolorem voluptate sed aut dolorem.",
+  "subtitle": "Autem ut veniam officia tenetur nemo. Neque exercitationem quis aut ut vel vel perferendis qui.",
+  "summary": "Consequatur inventore aut sit illum odio. Dolores alias perferendis quia similique voluptatem totam quo. Odit repellat recusandae quae.",
+  "category": "Sports & Fitness",
+  "featured_image": "https://images.unsplash.com/photo-1595798623727-e7c56310f69a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxMHx8U2F2YW5uYWh8ZW58MHwwfHx8MTY5NzM1NzU1MHww&ixlib=rb-4.0.3&q=85",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023",
+  "user": {
+  "id": "3f24cc93-ba5c-409c-b93e-287006fb0c51",
+  "first_name": "Jacquelyn",
+  "middle_name": "Labadie",
+  "last_name": "Collier",
+  "email": "rath.danyka_chaim.senger@example.org",
+  "contact_id": "e49b53b0-23ef-4145-a5b5-c26148ad0c79",
+  "address_id": "e1481e50-ef3f-4ce7-b4bd-d30276789dcb",
+  "username": "aokon3446",
+  "role": "Social Work Teacher",
+  "profile_pic": "https://images.unsplash.com/photo-1508378817913-43c62adcdd59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNHx8RmVzdGl2YWx8ZW58MHwyfHx8MTY5NzM2Mzk0Mnww&ixlib=rb-4.0.3&q=80&w=400",
+  "email_verified_at": null,
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  },
+  "comments": [],
+  "tags": [
+  {
+  "id": "1fb07b33-386e-468e-b543-5288481c9bb8",
+  "blog_post_id": "029a3edc-4ade-4038-bf26-f1a3b9a79163",
+  "name": "Culture",
+  "created_at": "Sun, 10/15/2023",
+  "updated_at": "Sun, 10/15/2023"
+  }
+  ]
+  }]

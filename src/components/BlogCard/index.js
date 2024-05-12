@@ -1,16 +1,25 @@
 import React from "react";
-import { Card,Button} from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
+import "./blogcard.css";
 
 function BlogCard({ blog }) {
+  const navigate = useNavigate();
+
+  const handleClick = () => {
+    navigate(`/${blog.id}`);
+  };
+
   return (
-    <Card style={{ width: "18rem", height: "65vh" }}>
-      <Card.Img style={{ height: "20vh" }} variant="top" src={blog.image} />
-      <Card.Body>
-        <Card.Title>{blog.title}</Card.Title>
-        <Card.Text style={{ height: "27vh" }}>{blog.title}</Card.Text>
-        <Button variant="primary">Info</Button>
-      </Card.Body>
-    </Card>
+    <div class="col" onClick={handleClick}>
+      <div class="card h-100">
+        <img src={blog.featured_image} class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">{blog.title}</h5>
+          <p class="card-text">{blog.summary}</p>
+          <p class="card-text">{blog.created_at}</p>
+        </div>
+      </div>
+    </div>
   );
 }
 

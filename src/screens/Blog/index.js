@@ -1,13 +1,15 @@
-import React from "react";
+import React, { Suspense } from "react";
 import blogArr from "../../data/blog.json";
-import BlogCard from "../../components/BlogCard";
+
 function Blog() {
+  const BlogCard = React.lazy(() => import("../../components/BlogCard"));
+
   return (
-    <div className="row" style={{ marginTop: "4%", marginLeft: "2%" }}>
-      {blogArr.map((blog) => (
-        <div className="col-md-4" style={{ marginBottom: "4%" }}>
-          <BlogCard blog={blog}/>
-        </div>
+    <div class="row row-cols-1 row-cols-md-3 g-4 p-4 ">
+      {blogArr.map((blog, index) => (
+        <Suspense key={index}>
+          <BlogCard blog={blog} />
+        </Suspense>
       ))}
     </div>
   );

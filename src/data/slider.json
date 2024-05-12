@@ -2,25 +2,25 @@
       {
         "title": "Nature Walk",
         "subtitle": "Breathe in the serenity of nature",
-        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "imageURL": "https://images.unsplash.com/photo-1593458819983-23713d2015e8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxMnx8U2F2YW5uYWh8ZW58MHwwfHx8MTY5NzM1NzU1MHww&ixlib=rb-4.0.3&q=85",
         "interval": 5000
       },
       {
         "title": "Cityscape",
         "subtitle": "Get mesmerized by the city lights",
-        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "imageURL": "https://images.unsplash.com/photo-1476673160081-cf065607f449?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxN3x8T2NlYW58ZW58MHwwfHx8MTY5NzM1NzU0Mnww&ixlib=rb-4.0.3&q=85",
         "interval": 6000
       },
       {
         "title": "Culinary Delights",
         "subtitle": "Best places for a sweet break",
-        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "imageURL": "https://images.unsplash.com/photo-1682686581218-82326951f4ad?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MXwxfHNlYXJjaHw4fHxPY2VhbnxlbnwwfDB8fHwxNjk3MzU3NTQyfDA&ixlib=rb-4.0.3&q=85",
         "interval": 5500
       },
       {
         "title": "Art Exhibition",
         "subtitle": "Discover art through visual spectacle",
-        "imageURL": "https://wowslider.com/sliders/demo-18/data1/images/hongkong1081704.jpg",
+        "imageURL": "https://images.unsplash.com/photo-1542202229-7d93c33f5d07?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHw2fHxGb3Jlc3R8ZW58MHwwfHx8MTY5NzM1NzU0MHww&ixlib=rb-4.0.3&q=85",
         "interval": 7000
       }
     ]
