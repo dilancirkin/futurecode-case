@@ -214,3 +214,12 @@ a {
     font-size: 16px;
   }
 }
+.contact-section {
+  padding: 7em 0;
+}
+
+@media (min-width:768px) and (max-width:993px){
+  .contact-section {
+    padding: 14em 0;
+  }
+}
