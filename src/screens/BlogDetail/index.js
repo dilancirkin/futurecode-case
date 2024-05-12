@@ -12,6 +12,10 @@ function BlogDetail() {
   const { initialCommentsData } = blog.comments;
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [id, blog]);
+
+  useEffect(() => {
     if (initialCommentsData != null) {
       setComments(initialCommentsData);
     }
